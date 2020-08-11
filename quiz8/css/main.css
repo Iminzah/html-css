@@ -14,8 +14,8 @@ min-height: 200px;
 padding: 2.5%;
 }
 .three{
-background-color: red;
-min-height: 200px;
+background-color: teal;
+min-height: 10px;
 padding-bottom: 2.5%;
 }
 .four{
@@ -39,7 +39,7 @@ min-height: 200px;
 padding: 1.66%;
 }
 .eight{
-background-color: grey;
+background-color: cyan;
 min-height: 200px;
 padding: 1.66%;
 }
